@@ -7,7 +7,7 @@ require('./mongoose-db');
 require('./typeorm-db')
 
 const st = require('st');
-var crypto = require('crypto');
+const crypto = require('crypto');
 var express = require('express');
 var http = require('http');
 var path = require('path');
